@@ -66,18 +66,8 @@
 		</dependency>
 		<dependency>
 			<groupId>br.univille</groupId>
-			<artifactId>microkernel-kernel</artifactId>
+			<artifactId>microkernel-interface</artifactId>
 			<scope>0.0.1-SNAPSHOT</scope>
 		</dependency>
 	</dependencies>
-
-	<!-- <build>
-		<plugins>
-			<plugin>
-				<groupId>org.springframework.boot</groupId>
-				<artifactId>spring-boot-maven-plugin</artifactId>
-			</plugin>
-		</plugins>
-	</build> -->
-
 </project>
